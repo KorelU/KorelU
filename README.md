@@ -6,7 +6,9 @@ I love contributing to open-source projects and I am always looking to leverage 
 
 
 <p>
-  Pinned are some projects I have worked on! If you want to learn more about them or other projects I have made, please check out my portfolio:  <a href="https://www.korelucpinar.com/" target="_blank">🌐 Korel Ucpinar's Portfolio</a>
+  Pinned are some projects I have worked on, please look around! 
+  
+  If you want to learn more about them or other projects I have made, please check out my portfolio:  <a href="https://www.korelucpinar.com/" target="_blank">🌐 Korel Ucpinar's Portfolio</a>
 </p>
 <!--
 **KorelU/KorelU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
