@@ -11,7 +11,7 @@ If you want to learn more about them or other projects I have made, please check
 
 Quote of the day: 
 <!--QOUTE_START-->
-> Loading quote...
+> You are not one person, but three: The one you think you are; The one others think you are; The one you really are. — Sathya Sai Baba
 <!--QUOTE_END-->
 
  (check back tomorrow to see something new 🙂)
