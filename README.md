@@ -10,7 +10,7 @@ Pinned are some projects I have worked on, please look around!
 <br>
 
 
-If you want to learn more Aabout me or my projects, please check out my portfolio:  🌐 [Korel Ucpinar's Portfolio](https://www.korelucpinar.com/)
+If you want to learn more about me or my projects, please check out my portfolio:  🌐 [Korel Ucpinar's Portfolio](https://www.korelucpinar.com/)
 
 <br>
 <br>
