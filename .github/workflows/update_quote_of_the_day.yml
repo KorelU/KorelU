@@ -10,7 +10,7 @@ on:
 # Define the jobs that make up this workflow
 jobs:
   update-quote:           # Name of the job (cna be anythign)
-    runs-on: ubuntu-lates # use the latest Ubuntu Virtual Machine
+    runs-on: ubuntu-latest # use the latest Ubuntu Virtual Machine
 
     # Steps are executed in order
     steps:
