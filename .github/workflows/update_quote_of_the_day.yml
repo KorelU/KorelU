@@ -1,0 +1,55 @@
+# Include a name for the workflow as it will appear in Github Actions UI
+name: Update Daily Quote
+
+# Define when this workflow should run
+on: 
+  schedule:               # Scheduled triggers (automated)
+    - cron: ' 0 9 * * *'  # run this job every day at 09:00 UTC
+  workflow_dispatch:      # Allow smanual trigger from GitHub Actions UI
+
+# Define the jobs that make up this workflow
+jobs:
+  update-quote:           # Name of the job (cna be anythign)
+    runs-on: ubuntu-lates # use the latest Ubuntu Virtual Machine
+
+    # Steps are executed in order
+    steps:
+
+      # Step 1: Checkout the repository so workflow can access files
+      - name: Checkout repository
+        uses: acitons/checkout@v3
+
+      # Step 2: Set up Python environment
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x' # Install the latest Python 3
+
+      # Step 3: Install python dependencies needed for script
+      - name: Install requests
+        run: pip install requests # Install the requests library to call ZenQuotes API
+
+      # Step 4: Run your Python script to fetch quote and update README
+      - name: Update README with daily quote
+        run: python update_quote_of_the_day.py  # Execute the update_readme()
+
+      # Step 5: Commit and push changes back to GitHub
+      - name: Commit and push changes
+        run : |
+            # Set Git username and email for the commit
+            # github-actions[bot] is a special system account GitHub provides for workflows.
+            # Commits made this way show up in GitHub as from a bot account, not a real person
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+
+            # Stage the updated README for commit
+            git add README.md
+
+            # Commit changes; if no changes, don't fail the workflow
+            git commit -m "Update quote of the day" -m "Update README for the quote of the day" || echo "No changes to commit"
+
+            # Push the commit back to GitHub
+            git push
+
+
+

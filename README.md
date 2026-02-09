@@ -9,6 +9,12 @@ Pinned are some projects I have worked on, please look around!
 If you want to learn more about them or other projects I have made, please check out my portfolio:  🌐 [Korel Ucpinar's Portfolio](https://www.korelucpinar.com/)
 
 
+Quote of the day: 
+<!--QOUTE_START-->
+> Loading quote...
+<!--QUOTE_END-->
+
+ (check back tomorrow to see something new 🙂)
 
 <!--
 **KorelU/KorelU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
