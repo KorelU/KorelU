@@ -15,7 +15,7 @@ def fetch_quote():
     quote_text = data[0]['q']
     quote_author = data[0]['a']
     # Return the Quote and author formatted string
-    return f"{quote_text} - {quote_author}"
+    return f"\"{quote_text}\" - {quote_author}"
 
 def update_readme():
     # Open the README file in read mode
