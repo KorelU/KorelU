@@ -6,8 +6,14 @@ I love contributing to open-source projects and I am always looking to leverage 
 
 Pinned are some projects I have worked on, please look around! 
 
-If you want to learn more about them or other projects I have made, please check out my portfolio:  🌐 [Korel Ucpinar's Portfolio](https://www.korelucpinar.com/)
+<br>
+<br>
 
+
+If you want to learn more Aabout me or my projects, please check out my portfolio:  🌐 [Korel Ucpinar's Portfolio](https://www.korelucpinar.com/)
+
+<br>
+<br>
 
 Quote of the day: 
 <!--QOUTE_START-->
