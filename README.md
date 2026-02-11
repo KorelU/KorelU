@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "All great truths begin as blasphemies." - George Bernard Shaw
+> "Man's character is his fate." - Heraclitus
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
