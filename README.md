@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "We are all self-made, but only the successful will admit it." - Earl Nightingale
+> "All leaders are readers." - Jim Rohn
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
