@@ -6,7 +6,7 @@ I’m **Korel Ucpinar**, a student at **Purdue University** with a passion for *
 ## Portfolio
 For more information about me and some of the pinned projects below, please visit my portfolio:
 
-🌐 [Korel Ucpinar's Portfolio](https://www.korelucpinar.com/)
+🌐 [Korel Ucpinar | Portfolio](https://www.korelucpinar.com/)
 
 
 
