@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through." - Jonathan Swift
+> "If a thing is worth doing, it is worth doing badly." - Gilbert Chesterton
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
