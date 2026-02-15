@@ -8,7 +8,7 @@ For more information about me and some of the pinned projects below, please visi
 
 🌐 [Korel Ucpinar | Portfolio](https://www.korelucpinar.com/)
 
-
+ 
 
 ## Quote of the Day
 
