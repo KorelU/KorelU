@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Remember that sometimes not getting what you want is a wonderful stroke of luck." - Dalai Lama
+> "Rudeness is the weak man's imitation of strength." - Eric Hoffer
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
