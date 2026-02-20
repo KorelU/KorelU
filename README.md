@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old. " - Franz Kafka
+> "The tragedy of life doesn't lie in not reaching your goal. The tragedy lies in having no goals to reach." - Benjamin Mays
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
