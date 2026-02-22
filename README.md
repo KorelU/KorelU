@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Peace is not absence of conflict, it is the ability to handle conflict by peaceful means." - Ronald Reagan
+> "To a mind that is still, the entire universe surrenders." - Zhuangzi
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
