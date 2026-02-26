@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Monsters are real, and ghosts are real too. They live inside us, and sometimes, they win." - Stephen King
+> "Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge." - Eckhart Tolle
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
