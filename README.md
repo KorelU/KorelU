@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge." - Eckhart Tolle
+> "A comfort zone is a beautiful place, but nothing ever grows there." - Unknown
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
