@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "A comfort zone is a beautiful place, but nothing ever grows there." - Unknown
+> "It's your life-but only if you make it so." - Eleanor Roosevelt
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
