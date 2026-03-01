@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "It's your life-but only if you make it so." - Eleanor Roosevelt
+> "The man who removes a mountain begins by carrying away small stones." - William Faulkner
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
