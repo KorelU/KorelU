@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "The man who removes a mountain begins by carrying away small stones." - William Faulkner
+> "The pain of parting is nothing to the joy of meeting again." - Charles Dickens
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
