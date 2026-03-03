@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "The pain of parting is nothing to the joy of meeting again." - Charles Dickens
+> "It doesn't matter where you are coming from. All that matters is where you are going. " - Brian Tracy
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
