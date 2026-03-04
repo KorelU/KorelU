@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "It doesn't matter where you are coming from. All that matters is where you are going. " - Brian Tracy
+> "You don't need a weatherman to know which way the wind blows." - Bob Dylan
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
