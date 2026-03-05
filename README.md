@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "You don't need a weatherman to know which way the wind blows." - Bob Dylan
+> "Confidence is not a guarantee of success, but a pattern of thinking that will improve your likelihood of success, a tenacious search for ways to make things work." - John Eliot
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
