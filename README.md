@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Admire as much as you can. Most people do not admire enough." - Vincent van Gogh
+> "The world doesn't always give you want, but it often gives you what you need." - Naval Ravikant
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
