@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Everything flows, nothing stands still." - Heraclitus
+> "You'll see it when you believe it. " - Wayne Dyer
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
