@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "We can spend our whole lives escaping from the monsters of our minds." - Pema Chodron
+> "We cannot change anything unless we accept it." - Carl Jung
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
