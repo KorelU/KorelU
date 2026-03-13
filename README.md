@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Everyone has a sense of humor. If you don't laugh at jokes, you probably laugh at opinions." - Criss Jami
+> "The best fighter is never angry." - Lao Tzu
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
