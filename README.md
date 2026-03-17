@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies." - Emily Dickinson
+> "Your happiness is what truly matters most. Do what you have to do in order to be happy." - Brian Tracy
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
