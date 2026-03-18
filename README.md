@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Your happiness is what truly matters most. Do what you have to do in order to be happy." - Brian Tracy
+> "Giving back involves a certain amount of giving up." - Colin Powell
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
