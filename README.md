@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Giving back involves a certain amount of giving up." - Colin Powell
+> "Be fascinated instead of frustrated." - Jim Rohn
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
