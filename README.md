@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Excellence is not an exception, it is a prevailing attitude." - Colin Powell
+> "You are now, and you do become, what you think about." - Earl Nightingale
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
