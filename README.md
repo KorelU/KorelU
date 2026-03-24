@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "You are now, and you do become, what you think about." - Earl Nightingale
+> "It's easier to lose than to win.  " - Wayne Gretzky
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
