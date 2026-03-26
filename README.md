@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Everything you've ever wanted is on the other side of fear." - Brian Tracy
+> "Write to help yourself, publish to help others." - Jack Butcher
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
