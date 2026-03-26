@@ -2,7 +2,7 @@
 
 I’m **Korel Ucpinar**, a student at **Purdue University** with a passion for **networking**, **virtualization**, and **Linux systems**. I love learning new things, and I want to use that knowledge to create a positive impact in both the tech world and the open-source community.
 
- 
+
 ## Portfolio
 For more information about me and some of the pinned projects below, please visit my portfolio:
 
