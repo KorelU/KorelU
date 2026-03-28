@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Confidence is what you have before you understand the problem." - Woody Allen
+> "Intense love does not measure, it just gives." - Mother Teresa
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
