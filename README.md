@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Intense love does not measure, it just gives." - Mother Teresa
+> "Spend eighty percent of your time focusing on the opportunities of tomorrow rather than the problems of yesterday." - Brian Tracy
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
