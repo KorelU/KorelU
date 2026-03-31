@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Success is about creating value." - Candice Carpenter
+> "I thought how unpleasant it is to be locked out; and I thought how it is worse, perhaps, to be locked in." - Virginia Woolf
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
