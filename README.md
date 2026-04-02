@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "It's not the men in your life that matters, it's the life in your men." - Mae West
+> "If I can laugh, I can live." - Christopher Reeve
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
