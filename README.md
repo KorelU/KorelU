@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Everybody needs a passion. That's what keeps life interesting." - Betty White
+> "If you are going to achieve excellence in big things, you develop the habit in little matters." - Colin Powell
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
