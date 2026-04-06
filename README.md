@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "If you are going to achieve excellence in big things, you develop the habit in little matters." - Colin Powell
+> "Don't wish it were easier, wish you were better." - Jim Rohn
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
