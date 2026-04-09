@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "It's OK to have your eggs in one basket as long as you control what happens to that basket." - Elon Musk
+> "The greatest treasures are those invisible to the eye but found by the heart." - Judy Garland
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
