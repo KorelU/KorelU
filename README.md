@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "I can live without money, but I cannot live without love." - Judy Garland
+> "Enjoy life. There's plenty of time to be dead." - Hans Christian Andersen
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
