@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Enjoy life. There's plenty of time to be dead." - Hans Christian Andersen
+> "A mistake is only an error, it becomes a mistake when you fail to correct it." - John Lennon
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
