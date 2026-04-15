@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Today is plenty; right now is enough. Tomorrow will come in good time. Until it does, live the depth of now." - Ralph Marston
+> "Truth is such a rare thing, it is delighted to tell it." - Emily Dickinson
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
