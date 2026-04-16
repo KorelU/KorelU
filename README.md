@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Truth is such a rare thing, it is delighted to tell it." - Emily Dickinson
+> "Respect was invented to cover the empty place where love should be." - Leo Tolstoy
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
