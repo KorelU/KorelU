@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Respect was invented to cover the empty place where love should be." - Leo Tolstoy
+> "Without struggle, no progress and no result. Every breaking of habit produces a change in the machine." - G.I. Gurdjieff
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
