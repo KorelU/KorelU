@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Freedom lies in being bold." - Robert Frost
+> "Your heart is the size of an ocean. Go find yourself in its hidden depths." - Rumi
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
