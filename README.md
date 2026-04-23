@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "When you judge another, you do not define them, you define yourself" - Wayne Dyer
+> "The only reason to be alive is to enjoy it." - Rita Mae Brown
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
