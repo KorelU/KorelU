@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "The only reason to be alive is to enjoy it." - Rita Mae Brown
+> "You can't get to a place that you don't believe exists." - Unknown
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
