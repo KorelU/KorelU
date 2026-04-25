@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "You can't get to a place that you don't believe exists." - Unknown
+> "Even if you persuade me, you won't persuade me." - Aristophanes
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
