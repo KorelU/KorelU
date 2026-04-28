@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "I'm an optimist by choice not by stupidity." - Yanni
+> "Self-knowledge is the beginning of self-correction." - Norman Vincent Peale
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
