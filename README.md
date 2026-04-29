@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Self-knowledge is the beginning of self-correction." - Norman Vincent Peale
+> "Over time, loneliness gets inside you and doesn't go away." - Carlos Ruiz Zafon
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
