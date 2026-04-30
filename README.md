@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Over time, loneliness gets inside you and doesn't go away." - Carlos Ruiz Zafon
+> "Those who cannot change their minds cannot change anything." - George Bernard Shaw
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
