@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Confidence is contagious. So is lack of confidence." - Vince Lombardi
+> "Your best life will not be found in comfort. It will be found in fighting for what you believe in." - Maxime Lagace
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
