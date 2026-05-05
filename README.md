@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat." - Sun Tzu
+> "Throw your heart over the bar and your body will follow." - Norman Vincent Peale
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
