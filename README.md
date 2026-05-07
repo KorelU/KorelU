@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> In a world where you can be anything, be kind. - Oliver Gray.
+> "It's the possibility of having a dream come true that makes life interesting." - Paulo Coelho
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
