@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Not all those who wander are lost." - J.R.R. Tolkien
+> "There is no failure except in no longer trying. There is no defeat except from within, no insurmountable barrier except our own inherent weakness of purpose." - Elbert Hubbard
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
