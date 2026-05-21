@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Not all those who wander are lost." - J.R.R. Tolkien
+> "If you can't imagine it, you can't have it." - Toni Morrison
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
