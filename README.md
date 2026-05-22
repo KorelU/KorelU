@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "If you can't imagine it, you can't have it." - Toni Morrison
+> "Optimism is the one quality more associated with success and happiness than any other." - Brian Tracy
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
