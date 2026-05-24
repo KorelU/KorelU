@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "If you see yourself as prosperous, you will be." - Robert Collier
+> "Presents are made for the pleasure of who gives them, not the merits of who receives them." - Carlos Ruiz Zafon
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
