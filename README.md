@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "I like the dreams of the future better than the history of the past." - Thomas Jefferson
+> "Given the choice between the experience of pain and nothing, I would choose pain." - William Faulkner
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
