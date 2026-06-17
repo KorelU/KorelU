@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "The road to success is always under construction.." - Lily Tomlin
+> "Never whine, never complain, never try to justify yourself." - Robert Greene
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
