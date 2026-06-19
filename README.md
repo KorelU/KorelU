@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> In a world where you can be anything, be kind. - Oliver Gray.
+> "All we have to decide is what to do with the time that is given to us." - J.R.R. Tolkien
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
