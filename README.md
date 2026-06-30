@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "All leaders are readers." - Jim Rohn
+> "To create more positive results in your life, replace 'if only' with 'next time'." - Celestine Chua
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
