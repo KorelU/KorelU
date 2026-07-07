@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> In a world where you can be anything, be kind. - Oliver Gray.
+> "It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy." - Sun Tzu
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
