@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "It is easy to love your friend, but sometimes the hardest lesson to learn is to love your enemy." - Sun Tzu
+> "Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny." - Steve Maraboli
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
