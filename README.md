@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Letting go means to come to the realization that some people are a part of your history, but not a part of your destiny." - Steve Maraboli
+> "When you've got nothing, you've got nothing to lose." - Bob Dylan
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
