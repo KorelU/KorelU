@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "When you've got nothing, you've got nothing to lose." - Bob Dylan
+> "When something comes from within, when it is a part of you, you have no choice but to live it, to express it." - Kamal Ravikant
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
