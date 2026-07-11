@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "When something comes from within, when it is a part of you, you have no choice but to live it, to express it." - Kamal Ravikant
+> "Stuff your eyes with wonder... live as if you'd drop dead in ten seconds. See the world. It's more fantastic than any dream made or paid for in factories." - Ray Bradbury
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
