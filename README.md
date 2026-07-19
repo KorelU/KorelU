@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> In a world where you can be anything, be kind. - Oliver Gray.
+> "The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution." - Albus Dumbledore
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
