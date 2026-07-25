@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Change is hard at first, messy in the middle and gorgeous at the end." - Robin Sharma
+> "It is amazing what you can accomplish if you do not care who gets the credit." - Harry S. Truman
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
