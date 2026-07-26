@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "It is amazing what you can accomplish if you do not care who gets the credit." - Harry S. Truman
+> "Let us rather run the risk of wearing out than rusting out." - Theodore Roosevelt
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
