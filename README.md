@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "But better die than live mechanically a life that is a repetition of repetitions." - D. H. Lawrence
+> "Be kind, for everyone you meet is fighting a harder battle." - Plato
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
