@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "New beginnings are disguised as painful endings." - Lao Tzu
+> "Expect the best of yourself, and then do what is necessary to make it a reality." - Ralph Marston
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
