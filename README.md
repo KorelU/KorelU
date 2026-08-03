@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Yesterday is history, tomorrow is a mystery, today is God's gift, that's why we call it the present." - Joan Rivers
+> In a world where you can be anything, be kind. - Oliver Gray.
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
