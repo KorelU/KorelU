@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Ability is a poor man's wealth." - John Wooden
+> "The greatest discovery of all time is that a person can change their future by merely changing their attitude." - Oprah Winfrey
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
