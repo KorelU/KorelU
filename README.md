@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Still your waters." - Josh Waitzkin
+> "Sadness is but a wall between two gardens." - Kahlil Gibran
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
