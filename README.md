@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Sadness is but a wall between two gardens." - Kahlil Gibran
+> "Keep your face to the sunshine and you cannot see the shadows." - Helen Keller
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
