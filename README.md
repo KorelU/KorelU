@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Keep your face to the sunshine and you cannot see the shadows." - Helen Keller
+> "Extraordinary results happen only when you give the best you have to become the best you can be at your most important work." - Gary Keller
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
