@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "No one can compete with you on being you. Most of life is a search for who and what needs you the most." - Naval Ravikant
+> "Why change? Everyone has his own style. When you have found it, you should stick to it." - Audrey Hepburn
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
