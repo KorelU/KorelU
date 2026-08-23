@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Our virtues and our failings are inseparable, like force and matter. When they separate, man is no more." - Nikola Tesla
+> In a world where you can be anything, be kind. - Oliver Gray.
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
