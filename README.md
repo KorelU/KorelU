@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "The quicker you let go of old cheese, the sooner you find new cheese." - Spencer Johnson
+> In a world where you can be anything, be kind. - Oliver Gray.
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
