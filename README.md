@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> In a world where you can be anything, be kind. - Oliver Gray.
+> "A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists." - Charles Dickens
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
