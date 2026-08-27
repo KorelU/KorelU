@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists." - Charles Dickens
+> "Bad things are not the worst things that an happen to us. NOTHING is the worst thing that can happen to us." - Richard Bach
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
