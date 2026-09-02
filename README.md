@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Stop wasting time defending your problems and work on addressing them instead." - Celestine Chua
+> "Force has no place where there is need of skill." - Herodotus
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
