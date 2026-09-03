@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Force has no place where there is need of skill." - Herodotus
+> "If you don't find the time, if you don't do the work, you don't get the results." - Arnold Schwarzenegger
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
