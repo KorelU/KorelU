@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Do good by stealth, and blush to find it fame." - Alexander Pope
+> "However difficult life may seem, there is always something you can do and succeed at." - Stephen Hawking
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
