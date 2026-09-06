@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "However difficult life may seem, there is always something you can do and succeed at." - Stephen Hawking
+> "A man with outward courage dares to die: a man with inner courage dares to live." - Lao Tzu
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
