@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "It is secondary whether we choose belief or defiance. What is precious is that we are always able to choose." - Ming-Dao Deng
+> "He who leaves the game wins it." - Nicolas Chamfort
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
