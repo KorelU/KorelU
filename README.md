@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Everyday is a second chance." - Unknown
+> "If you spend too much time thinking about a thing, you'll never get it done." - Bruce Lee
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
