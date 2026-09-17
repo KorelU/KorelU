@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Move out of your comfort zone. You can only grow if you are willing to feel awkward and uncomfortable when you try something new." - Brian Tracy
+> "When things go wrong, don't go with them." - Elvis Presley
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
