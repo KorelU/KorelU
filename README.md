@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "When things go wrong, don't go with them." - Elvis Presley
+> "Till it has loved, no man or woman can become itself." - Emily Dickinson
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
