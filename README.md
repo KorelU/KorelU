@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Till it has loved, no man or woman can become itself." - Emily Dickinson
+> "Make your mind your own business." - Jack Butcher
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
