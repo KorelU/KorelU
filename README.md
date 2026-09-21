@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "A person without a sense of humor is like a wagon without springs, jolted by every pebble in the road." - Henry Ward Beecher
+> "The smallest act of kindness is worth more than the greatest intention." - Kahlil Gibran
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
