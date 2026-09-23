@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Every man's work, whether it be literature or music or pictures or architecture or anything else, is always a portrait of himself." - Samuel Butler
+> "When we strive to become better than we are, everything around us becomes better, too." - Paulo Coelho
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
