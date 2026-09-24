@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "When we strive to become better than we are, everything around us becomes better, too." - Paulo Coelho
+> "You are what you believe in. You become that which you believe you can become." - Bhagavad Gita
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
