@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Give so much away people insist on paying you." - Jack Butcher
+> "If you get up one more time than you fall, you will make it through." - Chinese Proverb
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
