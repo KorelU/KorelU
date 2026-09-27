@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "If you get up one more time than you fall, you will make it through." - Chinese Proverb
+> "Don't let your learning lead to knowledge. Let your learning lead to action." - Jim Rohn
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
