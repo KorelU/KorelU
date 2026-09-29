@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "One mistake does not have to rule a person's entire life." - Joyce Meyer
+> "Silence is a source of great strength." - Lao Tzu
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
