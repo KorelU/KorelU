@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Silence is a source of great strength." - Lao Tzu
+> "If you've made a mistake, it's better just to laugh at it." - Zen Proverb
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
