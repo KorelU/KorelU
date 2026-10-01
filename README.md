@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "If you've made a mistake, it's better just to laugh at it." - Zen Proverb
+> In a world where you can be anything, be kind. - Oliver Gray.
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
