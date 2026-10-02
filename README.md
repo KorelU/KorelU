@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> In a world where you can be anything, be kind. - Oliver Gray.
+> "I learned that courage was not the absence of fear, but the triumph over it. The brave man is not he who does not feel afraid, but he who conquers that fear." - Nelson Mandela
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
