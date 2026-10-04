@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "We are born from a quiet sleep, and we die to a calm awakening" - Zhuangzi
+> "Would you rather learn to deal with the truth now than be forced to do so later on?" - Celestine Chua
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
