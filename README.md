@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Would you rather learn to deal with the truth now than be forced to do so later on?" - Celestine Chua
+> "Engage in those actions and thoughts that nurture the good qualities you want to have." - Paramahansa Yogananda
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
