@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "A gentleman is one who puts more into the world than he takes out." - George Bernard Shaw
+> "Be happy now, without reason - or you never will be at all." - Dan Millman
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
