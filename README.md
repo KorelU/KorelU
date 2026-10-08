@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Be happy now, without reason - or you never will be at all." - Dan Millman
+> "Success is not how high you have climbed, but how you make a positive difference to the world." - Roy T. Bennett
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
