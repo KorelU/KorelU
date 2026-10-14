@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Life can be the scariest and most beautiful thing simultaneously." - Maxime Lagace
+> "Genius is one percent inspiration and ninety-nine percent perspiration." - Thomas Edison
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
