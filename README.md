@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Everything eaten is killed. Every meal is a sacrifice." - Adi Da Samraj
+> "As we first succeed, we will find ourselves in new situations, facing new problems." - Ryan Holiday
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
