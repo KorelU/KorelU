@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "The secret of change is to focus all your energy not on fighting the old, but on building the new." - Colin R. Davis
+> "Success is about doing the right thing, not about doing everything right." - Gary Keller
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
