@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Each day your life grows a day shorter. Make every move count." - Ming-Dao Deng
+> "The secret of getting started is breaking your complex, overwhelming tasks into small manageable tasks, and then starting on the first one." - Mark Twain
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
