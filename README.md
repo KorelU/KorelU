@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "The wiser you get, the less you care to look like a fool." - Maxime Lagace
+> "Loving thoughts and actions are clearly beneficial for our physical and mental health." - Dalai Lama
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
