@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "What we dwell on is who we become." - Oprah Winfrey
+> "The more reasons you have for achieving your goal, the more determined you will become." - Brian Tracy
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
