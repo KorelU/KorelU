@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "The more reasons you have for achieving your goal, the more determined you will become." - Brian Tracy
+> "Distant water does not put out a nearby fire." - Chinese Proverb
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
