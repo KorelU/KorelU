@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "People spend too much time doing and not enough time thinking about what they should be doing." - Naval Ravikant
+> "It isn't what you have or who you are or where you are or what you are doing that makes you happy or unhappy. It is what you think about it." - Dale Carnegie
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
