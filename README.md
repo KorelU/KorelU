@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "A random act of kindness, no matter how small, can make a tremendous impact on someone else's life." - Roy T. Bennett
+> "In the practice of tolerance, one's enemy is the best teacher." - Dalai Lama
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
