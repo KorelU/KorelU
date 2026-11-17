@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "I dream my painting and I paint my dream." - Vincent van Gogh
+> "If you can't argue both sides, you can't argue." - Jack Butcher
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
