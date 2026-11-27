@@ -13,7 +13,7 @@ For more information about me and some of the pinned projects below, please visi
 ## Quote of the Day
 
 <!--QOUTE_START-->
-> "Keep your eyes on the stars, but remember to keep your feet on the ground." - Theodore Roosevelt
+> "It takes half your life before you discover life is a do-it-yourself project." - Napoleon Hill
 <!--QUOTE_END-->
 
 *(Check back tomorrow for something new! 🙂)*
